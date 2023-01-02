@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:todo/constants/colors.dart';
 
-// gdfjgfjjufhjghkgh
 class Home extends StatelessWidget {
   const Home({super.key});
 
